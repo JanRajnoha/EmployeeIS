@@ -24,7 +24,7 @@ namespace EmployeeIS
     {
         public MainPage()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
     }
 }
